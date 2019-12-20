@@ -1,0 +1,139 @@
+*{
+   margin: 0%;
+   padding: 0%;
+}
+#reglagetext{
+    margin-left: 250px;
+}
+#defaultsection{
+    width: 100%;
+    height: 40%;
+    border: 0.1px solid #515f67 ;
+    background-color: #515f67;
+}
+#defaultsection h4{
+    color: white;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#defaultsection p{
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+#defaultsection video{
+    width: 25%;
+    object-position: right;
+    display: block;
+    margin: -220px 200px 0px auto;
+}
+
+#defaultsection input {
+    width: 100px;
+    height: 25px;
+    color: black;
+    background-color:#515f67 ;
+    border: 1px groove black;
+    display: block;
+}
+#twitter{
+    border: 1px solid #4bcaff;
+    width: 100%;
+    height: 30%;
+    background-color: #4bcaff;
+}
+#twitter img{
+    width: 20px;
+    height: 15px;
+    margin-left: 1133px;
+    margin-top: 50px;
+   margin-bottom: -20px;
+}
+#twitter h4{
+    color: white;
+    margin-left: 250px;
+    font-size: 18px;
+}
+#twitter hr{
+    color: white;
+    margin-left: 250px;
+}
+#twitter p{
+    color: white;
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+#howisjohndoe{
+    width: 100%;
+    height: 50%;
+    border: 0.1px solid #4b555d;
+    /*background-color: blue;*/
+    background-image: url("../../Documents/ProjetHtmlAcs01/image/fotobg.png");
+    background-size: cover ;
+}
+#howisjohndoe h4{
+    margin-left: 250px;
+    color: white;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+#howisjohndoe hr{
+    margin-left: 250px;
+}
+
+#paragrapheleft{
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: -50px;
+    color: white;
+}
+#paragrapherigth{
+    flex-direction: left;
+    text-align: right;
+    margin-right: 205px;
+    margin-top: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-bottom: -150px;
+    color: white;
+}
+#iconimage{
+    padding-left: 730px;
+    margin-top: 150px;
+}
+#testimonials{
+    width: 100%;
+    height: 35%;
+    border: 0.1px solid white;
+}
+#testimonials h4{
+    margin-left: 250px;
+    color: #4b555d;
+    font-size: 15px;
+    margin-top: 50px;
+}
+#testimonials h5{
+    color: #4b555d;
+    text-align: right;
+    font-size: 50px;
+    margin-right: 400px;
+    margin-top: -30px;
+}
+#testimonials hr{
+    margin-left: 250px;
+}
+#testimonials p{
+    margin-left: 250px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.walter{
+    color: #4bcaff;
+    margin-left: 50px;
+    font-size: 08px;
+}
